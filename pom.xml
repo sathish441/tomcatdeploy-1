@@ -22,12 +22,12 @@
 		</dependency>
 	</dependencies>
 	
-	<distributionManagement>
+<!-- 	<distributionManagement>
    		<repository>
       			<id>nexus-repo</id>
         		<url>http://34.216.116.90:8081/repository/sample/</url>
    		</repository>
-	</distributionManagement>
+	</distributionManagement> -->
 
 	<build>
 		<plugins>
